@@ -1,0 +1,19 @@
+**** COMANDOS BASICOS PARA GIT ****
+git init -> para comenzar seguimiento de proyecto 
+git add nombreArchivo ->  lo añade al area de ensaño, se necesita siempre para hacer el commit
+git commit -m "nombre de la version"  -> lo añade al area local
+git status -s -> para ver los archivos del seguimiento
+git log --oneline -> para ver los archivos
+git reset --hard -> para restaurar el archivos
+git add . --> para subir todos los archivos del repo
+git commit -am "nombre de la version" -> para add y hacer el commit
+git remote add origin https://github.com/giosavi/PruebaGIT.git --> para subir a github
+****MODIFICAR NOMBRE DE LAS VERSIONES***
+git commit --amend -> para abrir el editor vim
+:i para modificar y borrar nombre  
+ESC para salir y renombrar
+:i para modificar
+ESC para guardar cambios
+:wq guardar y salir
+
+//prueba
