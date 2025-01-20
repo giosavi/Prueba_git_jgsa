@@ -1,7 +1,1 @@
-El servicio de ObtenerAlertaCreditoCliente
-Se debe de tener a travez del numero del vendedor, no del numero de cuenta.
-en service - > impl comisionesService se consulta a travez del vendendor 
 
-        url:"jdbc:mysql://localhost:3306/test",
-                user:"root",
-                password:"admin"
