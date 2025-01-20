@@ -15,5 +15,3 @@ ESC para salir y renombrar
 :i para modificar
 ESC para guardar cambios
 :wq guardar y salir
-
-//prueba
