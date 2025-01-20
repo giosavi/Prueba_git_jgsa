@@ -15,3 +15,6 @@ ESC para salir y renombrar
 :i para modificar
 ESC para guardar cambios
 :wq guardar y salir
+git pull -> para jalar (descargar los cambios)
+git push -> para empujar los cambios
+tags -> sirve para las versiones de los cambios
