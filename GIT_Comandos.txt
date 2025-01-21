@@ -20,3 +20,6 @@ git push -> para empujar los cambios
 git tag 20-01-25v1 -m "Version 1"-> sirve para las versiones de los cambios
 git push -- tags -> para empujar los tags al repo de github
 git clone URL( https://github.com/giosavi/Prueba_git_jgsa.git --De github) -> para clonar el repositorio 
+git branch nombreDeseado -> para crear una rama
+git branch -> para conocer las ramas del proyecto
+git checkout nombreRama -> para cambiarse de rama
